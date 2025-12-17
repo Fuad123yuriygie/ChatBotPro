@@ -35,8 +35,8 @@
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/chat-bot-pro.git
-   cd chat-bot-pro
+   git clone https://github.com/Fuad123yuriygie/ChatBotPro
+   cd ChatBotPro
    ```
 
 3. **Launch with Docker**:
